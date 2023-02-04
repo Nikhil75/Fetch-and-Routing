@@ -1,0 +1,35 @@
+.image {
+  height: 20vh;
+}
+li {
+  list-style: none;
+}
+.blogs-list-container {
+  display: flex;
+  border: 2px solid #d3d3d3;
+  margin-top: 20px;
+  height: 25vh;
+  width: 90%;
+  justify-content: space-evenly;
+  align-items: center;
+  border-radius: 8px;
+}
+.description-container {
+  margin-left: 20px;
+}
+.course-name {
+  margin-bottom: 20px;
+}
+.avatar {
+  height: 3vh;
+  border-radius: 50%;
+  margin-right: 20px;
+}
+.urlandname {
+  display: flex;
+  align-items: center;
+}
+.blog-link {
+  text-decoration: none;
+  color: #8e8e8e;
+}
